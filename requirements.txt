@@ -344,7 +344,7 @@ pytz==2021.3
 pytzdata==2020.1
 pyviz-comms==2.2.0
 PyWavelets @ file:///C:/ci/pywavelets_1601658407916/work
-pywin32==227
+#pywin32==227
 pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 PyYAML==5.4.1
